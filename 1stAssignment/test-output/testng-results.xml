@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21383" started-at="2018-05-21T00:47:07Z" finished-at="2018-05-21T00:47:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21383" started-at="2018-05-21T00:47:07Z" finished-at="2018-05-21T00:47:28Z">
+      <class name="opengoogle.Paralleltesting">
+        <test-method status="PASS" signature="executSessionOne()[pri:0, instance:opengoogle.Paralleltesting@2a5ca609]" name="executSessionOne" duration-ms="8173" started-at="2018-05-21T00:47:07Z" finished-at="2018-05-21T00:47:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executSessionOne -->
+        <test-method status="PASS" signature="executeSessionTwo()[pri:0, instance:opengoogle.Paralleltesting@2a5ca609]" name="executeSessionTwo" duration-ms="13144" started-at="2018-05-21T00:47:15Z" finished-at="2018-05-21T00:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSessionTwo -->
+      </class> <!-- opengoogle.Paralleltesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
